@@ -25,3 +25,10 @@ The survival_prediction.ipynb takes Dicom files and other meta data of the patie
 ## Inference and 3D Reconstruction
 The notebook Volumetric_Analysis_and_3D_Reconstruction is the final notebook. It loads the trained model to segment the brain. It then continues to predict volumes of the tumor and healthy areas of brain and then finally gives the 3D reconstruction.
 
+The requirements.txt includes all the libraries pre-requist
+
+##Dataset
+The following model is trained on kaggle Dataset available in the link below.
+
+$ An already runed notebook,pre-trained model and sample nifti file is also attached in the following drive link for better understanding of the code.
+https://drive.google.com/drive/folders/1QX2vNj5031GOnqj5DRBvEXdsV52uPwZW?usp=sharing
